@@ -1,1 +1,3 @@
-# Get-Regular-Reports-Of-Companies
+# 年报大全DJX
+普通版本只能爬取A股，全面版本的可以爬取A股、港股、三板上市公司的年报
+（注意：使用非可视化版本时，需要创建company.txt，并把要爬取的公司名称放在里面）
